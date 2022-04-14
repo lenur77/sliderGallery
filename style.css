@@ -1,0 +1,35 @@
+body {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+img {
+  pointer-events: none;
+  width: 100%;
+  overflow: hidden;
+}
+
+
+.slide {
+  height: 20rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.slide-1 {
+  background: red;
+}
+
+.slide-2 {
+  background: yellow;
+}
+
+.slide-3 {
+  background: green;
+}
+
+.slide-4 {
+  background: blue;
+}
